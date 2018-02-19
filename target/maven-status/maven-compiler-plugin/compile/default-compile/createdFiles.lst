@@ -1,0 +1,7 @@
+springMVChibernate\service\UserService.class
+springMVChibernate\controller\UserController.class
+springMVChibernate\service\UserServiceImpl.class
+springMVChibernate\model\UserBean.class
+springMVChibernate\DAO\UserDAOImpl.class
+springMVChibernate\model\CarBean.class
+springMVChibernate\DAO\UserDAO.class
